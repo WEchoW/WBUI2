@@ -1,0 +1,69 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome on Werewolves",
+                    "text1": "Visit us on Discord for more Informations.\r\nSee Discord Link Below\r\n\r\n\r\nBefore you dive in, please take a moment to read through our server rules.\r\nWe want everyone to have a great time here, and following the guidelines helps create a positive environment for everyone.\r\n\r\n\r\nWe're excited to have you here, and we can't wait to get to know you better.\r\n\r\n\r\n\r\nEnjoy your stay!",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Rules",
+                    "title1": "In Game Rules:",
+                    "text1": "<TextStyle.LightBlue>All players on our cluster must read and agree to the server rules. These rules are subject to change, Any changes will be announced in the correct channels on discord:</>\n\n\n1. Please only use English in global chat.\n2. Be respectful to ALL other players and cluster staff members, any form of abuse or harassment will be dealt with severely.\n3. No Human or Default names after 24 hours of joining a server.\n4. No structure spam or land claiming anywhere on the map.\n5. No building in High Resource Area's or Blocking Explorer Notes.\n6. Be considerate of other players and leave a reasonable distance between you and bases of other players bases.\n7. A Maximum of 5 Behemoths Gate only permitted per tribe.\n8. Do not build entire bases from Tek items as they are known to cause lag, The Tek Generator, Tek Replicator, Tek Shield and Tek  Gates are permitted.\n9. Bases are not to be larger than 40x40 foundations, This is roughly the range of the AA workbench.\n10. Under no circumstance are you to give new players creatures from a tier they haven't yet reached themselves, you are spoiling the game for them.\n11. Please keep your player and workbenches secured and safe, the staff will not replace items that were lost due to carelessness.\n12. Only 5 creatures allowed out of storage at any one time if farming/fighting bosses (if your trying to get eggs use the dino collector mod) (Creatures that create resources passively are exempt from this rule but only a maximum of 2 of each spieces per tribe please)\n13. Clean up after yourself. That includes also cleaning Taming Pens after you tamed any dino!\n14. Only 1 Tribe base and 1 Personal outpost is allowed.",
+                    "title2": "Any violation of these rules will come with consequences:",
+                    "text2": "- 1st Violation -  Verbal Warning\n- 2nd Violation - Complete Tribe Wipe\n- 3rd Violation -  Complete Ban from all Werewolves Servers",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+}
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/nXZf6qj3Fw"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Store",
+                    "url": "https://werewolves.premiumark.net/shop"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Buy Points",
+                    "url": "https://werewolves.premiumark.net/page/86084-buy-tokens"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Servers List",
+                    "url": "https://youtu.be/QCfGPKCy9TA"
+                }
+            },
+            {
+                "link5": {
+                    "text": "Vote",
+                    "url": "https://werewolves.premiumark.net/page/87149-vote"
+                }
+            }
+        ]
+    }
+}
