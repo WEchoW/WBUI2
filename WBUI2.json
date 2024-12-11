@@ -1,7 +1,7 @@
 {
     "WBUI2": {
         "settings": {
-            "OpenButton": 0,
+            "OpenButton": 1,
             "HideIcon": false,
             "HideIconAfter": 60,
             "IconURL": "https://i.imgur.com/OZ6xOjY.png",
@@ -50,7 +50,7 @@
             {
                 "link3": {
                     "text": "Buy Points",
-                    "url": "https://werewolves.premiumark.net/page/86084-buy-tokens"
+                    "url": "https://werewolves.premiumark.net/page/117265-buy-tokens-or-points"
                 }
             },
             {
